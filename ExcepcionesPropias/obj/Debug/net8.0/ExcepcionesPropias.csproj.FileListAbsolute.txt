@@ -1,0 +1,22 @@
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll

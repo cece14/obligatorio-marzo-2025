@@ -1,0 +1,53 @@
+﻿@using LogicaNegocio.EntidadesDominio
+@model Obligatorio.Models.AltaEmpleadoViewModel
+@if (ViewBag.MensajeError != null)
+{
+    <div class="alert alert-danger">@ViewBag.MensajeError</div>
+}
+
+<h2>Crear Empleado</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="DTO.Nombre"></label>
+        <input asp-for="DTO.Nombre" class="form-control" />
+        <span asp-validation-for="DTO.Nombre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DTO.Apellido"></label>
+        <input asp-for="DTO.Apellido" class="form-control" />
+        <span asp-validation-for="DTO.Apellido" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DTO.Email"></label>
+        <input asp-for="DTO.Email" class="form-control" />
+        <span asp-validation-for="DTO.Email" class="text-danger"></span>
+    </div>
+
+
+
+    <div class="form-group">
+        <label asp-for="DTO.Password"></label>
+        <input asp-for="DTO.Password" type="password" class="form-control" />
+        <span asp-validation-for="DTO.Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DTO.Telefono"></label>
+        <input asp-for="DTO.Telefono" class="form-control" />
+        <span asp-validation-for="DTO.Telefono" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DTO.Rol"></label>
+        <select asp-for="DTO.Rol" class="form-control" asp-items="Html.GetEnumSelectList<Rol>()"></select>
+        <span asp-validation-for="DTO.Rol" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Crear</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

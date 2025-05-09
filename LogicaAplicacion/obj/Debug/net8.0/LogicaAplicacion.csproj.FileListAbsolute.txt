@@ -1,0 +1,42 @@
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaDatos.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaDatos.pdb
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\caaam\Downloads\materiales facu\materiales facu\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaDatos.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaDatos.pdb
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+D:\Descargas\Obligatorio1_CamilaCorrea_317765 (2)\Obligatorio1_CamilaCorrea_317765\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll

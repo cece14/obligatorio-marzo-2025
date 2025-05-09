@@ -1,0 +1,16 @@
+﻿@model UsuarioViewModel
+
+@{
+    ViewData["Title"] = "Perfil";
+}
+
+
+
+@if (Model != null && !string.IsNullOrEmpty(Model.NombreUsuario) && !string.IsNullOrEmpty(Model.ApellidoUsuario))
+{
+    <h3>Bienvenido a ORT Logistics, @Model.NombreUsuario @Model.ApellidoUsuario</h3>
+}
+else
+{
+    <p>No se pudo cargar la información del usuario. Por favor, inicie sesión nuevamente.</p>
+}

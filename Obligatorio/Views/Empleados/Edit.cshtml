@@ -1,0 +1,56 @@
+﻿@using LogicaNegocio.EntidadesDominio
+@model Obligatorio.Models.EditarEmpleadoViewModel
+
+<h2>Modificar Empleado</h2>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<!-- Mostrar errores globales -->
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="DTO.Id" />
+
+    <div class="form-group">
+        <label for="Nombre">Nombre</label>
+        <input asp-for="DTO.Nombre" class="form-control" />
+        <span asp-validation-for="DTO.Nombre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Apellido">Apellido</label>
+        <input asp-for="DTO.Apellido" class="form-control" />
+        <span asp-validation-for="DTO.Apellido" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input asp-for="DTO.Email" class="form-control" />
+        <span asp-validation-for="DTO.Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Telefono">Teléfono</label>
+        <input asp-for="DTO.Telefono" class="form-control" />
+        <span asp-validation-for="DTO.Telefono" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Rol">Rol</label>
+        <select asp-for="DTO.Rol" class="form-control">
+            @foreach (var rol in Enum.GetValues(typeof(Rol)))
+            {
+                <option value="@rol" selected="@(rol.ToString() == Model.DTO.Rol.ToString() ? "selected" : null)">@rol</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Modificar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

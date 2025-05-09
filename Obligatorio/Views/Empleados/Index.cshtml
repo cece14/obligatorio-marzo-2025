@@ -1,0 +1,52 @@
+﻿@using LogicaNegocio.EntidadesDominio
+@model Obligatorio.Models.AltaEmpleadoViewModel
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<h2>Listado de Empleados</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Email</th>
+            <th>Rol</th>
+            <th>Fecha de Alta</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model.Empleados)
+        {
+            <tr>
+                <td>@emp.Nombre</td>
+                <td>@emp.Apellido</td>
+                <td>@emp.Email</td>
+                <td>@emp.Rol.ToString()</td>
+                <td>
+                    @(emp.FechaAlta == DateTime.MinValue
+                        ? "—"
+                        : emp.FechaAlta.ToString("dd/MM/yyyy HH:mm"))
+                </td>
+                <td>
+                    <a class="btn btn-sm btn-primary" asp-action="Edit" asp-route-id="@emp.Id">Modificar</a>
+                    <form asp-action="Delete"
+                          method="post"
+                          asp-route-id="@emp.Id"
+                          style="display:inline;"
+                          onsubmit="return confirm('¿Seguro que querés eliminar este empleado?');">
+                        <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
